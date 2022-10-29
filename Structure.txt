@@ -1,0 +1,178 @@
+
+Folder PATH listing for Application
+├───Customer.app
+│   ├───android
+│   │   ├───app
+│   │   │   └───src
+│   │   │       ├───debug
+│   │   │       ├───main
+│   │   │       │   ├───java
+│   │   │       │   │   └───io
+│   │   │       │   │       └───flutter
+│   │   │       │   │           └───plugins
+│   │   │       │   ├───kotlin
+│   │   │       │   │   └───com
+│   │   │       │   │       └───example
+│   │   │       │   │           └───my_project
+│   │   │       │   └───res
+│   │   │       │       ├───drawable
+│   │   │       │       ├───mipmap-hdpi
+│   │   │       │       ├───mipmap-mdpi
+│   │   │       │       ├───mipmap-xhdpi
+│   │   │       │       ├───mipmap-xxhdpi
+│   │   │       │       ├───mipmap-xxxhdpi
+│   │   │       │       ├───values
+│   │   │       │       └───values-night
+│   │   │       └───profile
+│   │   └───gradle
+│   │       └───wrapper
+│   ├───assets
+│   │   ├───audios
+│   │   ├───fonts
+│   │   ├───images
+│   │   ├───lottie_animations
+│   │   ├───pdfs
+│   │   ├───rive_animations
+│   │   └───videos
+│   ├───ios
+│   │   ├───Flutter
+│   │   ├───ImageNotification
+│   │   ├───Runner
+│   │   │   ├───Assets.xcassets
+│   │   │   │   ├───AppIcon.appiconset
+│   │   │   │   └───LaunchImage.imageset
+│   │   │   ├───Base.lproj
+│   │   │   ├───en.lproj
+│   │   │   └───ta.lproj
+│   │   ├───Runner.xcodeproj
+│   │   │   ├───project.xcworkspace
+│   │   │   │   └───xcshareddata
+│   │   │   └───xcshareddata
+│   │   │       └───xcschemes
+│   │   └───Runner.xcworkspace
+│   │       └───xcshareddata
+│   ├───lib
+│   │   ├───auth
+│   │   ├───backend
+│   │   │   └───schema
+│   │   ├───cartr
+│   │   ├───cartw
+│   │   ├───checkoutr
+│   │   ├───checkoutw
+│   │   ├───flutter_flow
+│   │   │   └───nav
+│   │   ├───forget
+│   │   ├───home_c
+│   │   ├───loading_page
+│   │   ├───login
+│   │   ├───retailer
+│   │   ├───settings
+│   │   ├───signup
+│   │   └───warehouse
+│   ├───linux
+│   │   └───flutter
+│   ├───macos
+│   │   ├───Flutter
+│   │   ├───Runner
+│   │   │   ├───Assets.xcassets
+│   │   │   │   └───AppIcon.appiconset
+│   │   │   ├───Base.lproj
+│   │   │   └───Configs
+│   │   ├───Runner.xcodeproj
+│   │   │   ├───project.xcworkspace
+│   │   │   │   └───xcshareddata
+│   │   │   └───xcshareddata
+│   │   │       └───xcschemes
+│   │   └───Runner.xcworkspace
+│   │       └───xcshareddata
+│   ├───test
+│   ├───web
+│   │   └───icons
+│   └───windows
+│       ├───flutter
+│       └───runner
+│           └───resources
+└───farmer
+    ├───android
+    │   ├───app
+    │   │   └───src
+    │   │       ├───debug
+    │   │       ├───main
+    │   │       │   ├───java
+    │   │       │   │   └───io
+    │   │       │   │       └───flutter
+    │   │       │   │           └───plugins
+    │   │       │   ├───kotlin
+    │   │       │   │   └───com
+    │   │       │   │       └───example
+    │   │       │   │           └───my_project
+    │   │       │   └───res
+    │   │       │       ├───drawable
+    │   │       │       ├───mipmap-hdpi
+    │   │       │       ├───mipmap-mdpi
+    │   │       │       ├───mipmap-xhdpi
+    │   │       │       ├───mipmap-xxhdpi
+    │   │       │       ├───mipmap-xxxhdpi
+    │   │       │       ├───values
+    │   │       │       └───values-night
+    │   │       └───profile
+    │   └───gradle
+    │       └───wrapper
+    ├───assets
+    │   ├───audios
+    │   ├───fonts
+    │   ├───images
+    │   ├───lottie_animations
+    │   ├───pdfs
+    │   ├───rive_animations
+    │   └───videos
+    ├───ios
+    │   ├───Flutter
+    │   ├───ImageNotification
+    │   ├───Runner
+    │   │   ├───Assets.xcassets
+    │   │   │   ├───AppIcon.appiconset
+    │   │   │   └───LaunchImage.imageset
+    │   │   └───Base.lproj
+    │   ├───Runner.xcodeproj
+    │   │   ├───project.xcworkspace
+    │   │   │   └───xcshareddata
+    │   │   └───xcshareddata
+    │   │       └───xcschemes
+    │   └───Runner.xcworkspace
+    │       └───xcshareddata
+    ├───lib
+    │   ├───addv
+    │   ├───add_key
+    │   ├───auth
+    │   ├───backend
+    │   │   ├───firebase_storage
+    │   │   └───schema
+    │   ├───flutter_flow
+    │   │   └───nav
+    │   ├───login
+    │   ├───signin
+    │   └───verificationpage
+    ├───linux
+    │   └───flutter
+    ├───macos
+    │   ├───Flutter
+    │   ├───Runner
+    │   │   ├───Assets.xcassets
+    │   │   │   └───AppIcon.appiconset
+    │   │   ├───Base.lproj
+    │   │   └───Configs
+    │   ├───Runner.xcodeproj
+    │   │   ├───project.xcworkspace
+    │   │   │   └───xcshareddata
+    │   │   └───xcshareddata
+    │   │       └───xcschemes
+    │   └───Runner.xcworkspace
+    │       └───xcshareddata
+    ├───test
+    ├───web
+    │   └───icons
+    └───windows
+        ├───flutter
+        └───runner
+            └───resources

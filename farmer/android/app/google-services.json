@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "239925505574",
+    "project_id": "multi-c-e1fef",
+    "storage_bucket": "multi-c-e1fef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239925505574:android:e9da55bb2c2c909a9c80e7",
+        "android_client_info": {
+          "package_name": "com.mycompany.farmer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239925505574-0f7afgg9b8pqi0k9mrvvkkdpdnfrj6h2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.farmer",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "239925505574-p0lr9drlkco4fd7inva85g1u6n579sli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4duuX9rbnCPkXgQ5Pr4pb5sHCGlxSdLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239925505574-p0lr9drlkco4fd7inva85g1u6n579sli.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "239925505574-ckpccju7gnja0q02ckucvi4rt8vf1u1r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.farmer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239925505574:android:195edc60392900529c80e7",
+        "android_client_info": {
+          "package_name": "com.mycompany.multic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239925505574-tlugbba1bgvklbpfohqaltl1qndkaeo1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.multic",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "239925505574-p0lr9drlkco4fd7inva85g1u6n579sli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4duuX9rbnCPkXgQ5Pr4pb5sHCGlxSdLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239925505574-p0lr9drlkco4fd7inva85g1u6n579sli.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "239925505574-ckpccju7gnja0q02ckucvi4rt8vf1u1r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.farmer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
